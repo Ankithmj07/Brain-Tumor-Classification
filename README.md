@@ -1,3 +1,3 @@
 # Brain-Tumor-Classification
 
-## Project will be Uploaded Soon
+## The Project will be Uploaded Soon
